@@ -87,3 +87,5 @@ Page Object é um Design Pattern que se tornou popular na automação de testes 
 Na documentação do Selenium, é possível encontrar uma página de diretrizes e recomendações <https://www.selenium.dev/documentation/test_practices/encouraged/>.
 
 
+**Repositório original <https://github.com/alura-cursos/2019-selenium-java>**
+
